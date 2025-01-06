@@ -7,8 +7,6 @@ A full-stack authentication system built with **Next.js**. This project demonstr
 ## Features
 
 - User Registration and Login
-- Secure JWT-based Authentication
-- Role-based Access Control
 - Full-Stack Implementation (Frontend + Backend)
 - Responsive Design
 
@@ -16,9 +14,8 @@ A full-stack authentication system built with **Next.js**. This project demonstr
 
 ## Tech Stack
 
-- **Frontend:** React, Next.js, TypeScript
-- **Backend:** Node.js, Express
-- **Authentication:** JWT (JSON Web Tokens)
+- **Frontend:** React, TypeScript
+- **Backend:** Next.js
 - **Database:** MongoDB
 
 ---
